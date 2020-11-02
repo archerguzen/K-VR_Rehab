@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: 70860e420ce81264a9ebcfa4ccf55640
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BackpackMat
+    second: {fileID: 2100000, guid: b7c1f74d5adacf447b3b2da582b1c14c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ball_Cart_Cloth
+    second: {fileID: 2100000, guid: c37cfc9e26a41d346b96add2503a4304, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bench_1
+    second: {fileID: 2100000, guid: 62c2889dff7693642a1be7dbf03ace95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bench_2
+    second: {fileID: 2100000, guid: 3426fbd4312aa3f40915887632f5db4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: IronMat
+    second: {fileID: 2100000, guid: b534b80db6ed1b949b8743bfe5549253, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LockerDoorHandle
+    second: {fileID: 2100000, guid: 352d7dedeff81134db579ec735af77b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LockerMainMat
+    second: {fileID: 2100000, guid: 24f8a6a5328dedf4eb2c10a2bcfa2e61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: fdc2b13ec09eb7848887cc9045df9742, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Transition
+    second: {fileID: 2100000, guid: d4d840c689a54bb4f911725f351dabff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PosterGlass
+    second: {fileID: 2100000, guid: be5007b7ae246804cb049ed1c03f98d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PosterGlass_2
+    second: {fileID: 2100000, guid: e81dee1c6a7318e4890547bc7fc17210, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PosterGlass_3
+    second: {fileID: 2100000, guid: 49552fc9f2622bc4093ab4057118cc4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PosterGlass_4
+    second: {fileID: 2100000, guid: 2a122079d28f27742882534f4705bc9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PosterInnerLayer
+    second: {fileID: 2100000, guid: fcee2e0dc60ebaf408dc3a164de1c266, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PosterInnerLayer_2
+    second: {fileID: 2100000, guid: 08c7da485c2f4984dbbea68a981e7617, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PosterInnerLayer_3
+    second: {fileID: 2100000, guid: 573cd952e6cde7c4e8fbfba15e87c1e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PosterInnerLayer_4
+    second: {fileID: 2100000, guid: 7de8dc4ec51593c4ba422bc960008b0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PosterMat
+    second: {fileID: 2100000, guid: 6113027d48c4b9b4089af7422dbc3bf7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PosterMat_2
+    second: {fileID: 2100000, guid: 40ab783f5f684d24ca435a7921abc863, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PosterMat_3
+    second: {fileID: 2100000, guid: 31d47157a205e5d42b9df55aaa1fbbcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PosterMat_4
+    second: {fileID: 2100000, guid: 59a770ce3c5c50e4bba5d01496bdea83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PosterOuterLayer
+    second: {fileID: 2100000, guid: b3dc88ffbf35a854484c59e478df93a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PosterOuterLayer_2
+    second: {fileID: 2100000, guid: 61eb45bb14c4c6646b450697239d39b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PosterOuterLayer_3
+    second: {fileID: 2100000, guid: adfdcb603474ca54b89581afd0424cda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PosterOuterLayer_4
+    second: {fileID: 2100000, guid: eedb49faddbf5db47b9e790b5a454c6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rocks
+    second: {fileID: 2100000, guid: b2772ee7eeb182d4f8172f25dfeac63f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShoeMaterial
+    second: {fileID: 2100000, guid: fe442da5efaac4a4cb2277dfd9aafe05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tire_Mat
+    second: {fileID: 2100000, guid: 17eb90656a1a34446baad41db5c1a6e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterDispancer_1
+    second: {fileID: 2100000, guid: 12eb0739fcc13e24da7c8807ce59f577, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterDispancer_2
+    second: {fileID: 2100000, guid: 68849ee8a365f6947821cf89b53cb7d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterDispancer_3
+    second: {fileID: 2100000, guid: 923169e0873eb1047bd0c08a2786a1ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterDispancer_4
+    second: {fileID: 2100000, guid: 3c98d5bd54c16594bbfef66b81221123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WaterDispancer_5
+    second: {fileID: 2100000, guid: 96f7d288880c19f4f9e43d2518de03c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheel
+    second: {fileID: 2100000, guid: 22073e14ba65db6408e6a03f3ab96599, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wheel_Side
+    second: {fileID: 2100000, guid: 5d1c463f4cf07954c8348a942b4e183d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cactus_gasteria
+    second: {fileID: 2100000, guid: 5b8c9d3d45fe8d743b2c8c4fb1597b76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: clay_pot
+    second: {fileID: 2100000, guid: ecf42a17195dc624db0eee36ea14ba2b, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 10481_Backpack_Difuse
+    second: {fileID: 2800000, guid: edf4e1e60abf5bb4eba22bd524b1e71b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 10481_Backpack_Normal
+    second: {fileID: 2800000, guid: dd151a30137027446a9135b99ed30dfd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DefaultMaterial_albedo
+    second: {fileID: 2800000, guid: 1aed8c86b2127994ba1170f71f11c94d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DefaultMaterial_metallic
+    second: {fileID: 2800000, guid: 76f19da360f59d54c954c403f0ce2149, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DefaultMaterial_normal
+    second: {fileID: 2800000, guid: 89bcf5294f340af479797cb70a370089, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DefaultMaterial_roughness
+    second: {fileID: 2800000, guid: c87df714faaad124f9c0149c7b16c30f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Fabric004_4K_Normal
+    second: {fileID: 2800000, guid: 0fdafe4f452c7c54181483a01e5893fb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Michael-Jordan-Quote-Backgrounds
+    second: {fileID: 2800000, guid: 778dd127aeb8100408a2e95bbbcd92dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plastic004_2K_Normal
+    second: {fileID: 2800000, guid: 363999d7212caf5479379ccf162372e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plastic004_2K_Roughness
+    second: {fileID: 2800000, guid: 3cbd02c16bb21714f88527ee5af7fd83, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: archmodels87_031_001
+    second: {fileID: 2800000, guid: d89dd2a4efdfb2949b25725fb0fb301e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: archmodels87_031_002
+    second: {fileID: 2800000, guid: 0da2da1ad4d2ae6438637833d57d317b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cactus_gasteria_DIF_1k
+    second: {fileID: 2800000, guid: 6a58a9d086773004b92e1a7f5a2bb3eb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dcmap_ka_design_t3_bench_1
+    second: {fileID: 2800000, guid: fc8e249352bb59e4abf587201296efce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dcmap_ka_design_t3_bench_2
+    second: {fileID: 2800000, guid: 1bd009c00ce67334091b07d41c3b5163, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

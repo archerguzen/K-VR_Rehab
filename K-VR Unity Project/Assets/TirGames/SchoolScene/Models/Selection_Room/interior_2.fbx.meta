@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 991b05f98a1ef214fac379e58b25cc7b
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ball10kg
+    second: {fileID: 2100000, guid: 75c8a223b82b32e43861c897eaa5999c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ball5kg
+    second: {fileID: 2100000, guid: fbce1b79601f7184b914151f62fa717a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackGlossy2
+    second: {fileID: 2100000, guid: 94f3660dcbbdbf94bae4b0d5d8163f6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blackmetalglossy
+    second: {fileID: 2100000, guid: d9d9364c350fb984abf537ef56d0ed26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dumbell_Mat
+    second: {fileID: 2100000, guid: 279a0ede72fa5bf4989ebe43f91ac437, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GreyPlastiksemiglossy
+    second: {fileID: 2100000, guid: 3ff8e2783f6a33e45b850587053e92a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LogoGray
+    second: {fileID: 2100000, guid: cf250ec98963e3945b9cd942540c76e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #12
+    second: {fileID: 2100000, guid: abf35351c932a35479e9e44fde445f96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ball2big
+    second: {fileID: 2100000, guid: b1ca783bce0130d44b0349ba7d1b8da7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ball9
+    second: {fileID: 2100000, guid: e297c6ccc522f5249bade727917f442b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ball9x2
+    second: {fileID: 2100000, guid: 4e94064a395f8324599533fede57397b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: graygloss
+    second: {fileID: 2100000, guid: d3bede7323b24bc4ba8075167a93d650, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grid
+    second: {fileID: 2100000, guid: 5944c180108ee7c42aeef47c302d383f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plateblack
+    second: {fileID: 2100000, guid: d2931ad3e8814e4479bb104a8471aafc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plateglobump
+    second: {fileID: 2100000, guid: c6bdb30f1c25ed544b496918f97fff47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roll4
+    second: {fileID: 2100000, guid: f0850fa124f2022429a5e546071c28e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vrayLogo
+    second: {fileID: 2100000, guid: 849c42aeeff271843a421d1d5493e182, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Dumbbell_Metalness
+    second: {fileID: 2800000, guid: 3a8c1c1ed4742434ba5aa2c2230aa55e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Dumbbell_Normal
+    second: {fileID: 2800000, guid: b7a839d6a1e37d54c959e37d41da8d20, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Dumbbell_color
+    second: {fileID: 2800000, guid: be5212f039c83804eb78107a4e11a0b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Dumbbell_roughness
+    second: {fileID: 2800000, guid: e33bad99ad955ea48943e04ff55ab688, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flash02
+    second: {fileID: 2800000, guid: 415367dcb170b794e9bd56cca33b6af3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Flash03
+    second: {fileID: 2800000, guid: 6573d0011623a5647927501f71b0e1ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Materi12
+    second: {fileID: 2800000, guid: 944a625e4bf555b4d9a829068923546e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Materia2bump
+    second: {fileID: 2800000, guid: ce8c25f680d8ee742b0cdbdcd7ecc34f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Materia3glo
+    second: {fileID: 2800000, guid: 83afc98726acfb549bf56211fb6f4392, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Materia7
+    second: {fileID: 2800000, guid: b96d9f8ef5acb624f96a6553d61edc9f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Materia8
+    second: {fileID: 2800000, guid: f050548ab6d1447429f4124613fbb4cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Materinr10
+    second: {fileID: 2800000, guid: 8d9b22da8aab88142bbfa56f2b904e35, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TgAl
+    second: {fileID: 2800000, guid: 2c8b511e248c8484382a05f52036cc3c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cb989931
+    second: {fileID: 2800000, guid: a234985ea94a17149b4b0924dbf28ee5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: medicine ball 6kg
+    second: {fileID: 2800000, guid: b6b5d8784cd3b54409bd50dc803dce26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: medicine ball 6kg_bump
+    second: {fileID: 2800000, guid: 1994951426bbe864b94ae8308d28df0a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: medicine ball 9kg
+    second: {fileID: 2800000, guid: 76c5e57e28a973b4ea3e603de5e66d7c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: medicine ball 9kg_bump
+    second: {fileID: 2800000, guid: 955cbf415a043de4588da5b8690667dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: texture bal
+    second: {fileID: 2800000, guid: d7679a30bc3e3c245ad740fbe9890fb3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: texture bal10
+    second: {fileID: 2800000, guid: 3cfe5071543bfe04498f96312aaf2ec2, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
