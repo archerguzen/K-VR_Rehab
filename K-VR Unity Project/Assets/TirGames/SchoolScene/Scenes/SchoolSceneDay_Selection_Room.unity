@@ -994,6 +994,26 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!1 &959192629 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5400396639010109554, guid: 70860e420ce81264a9ebcfa4ccf55640,
+    type: 3}
+  m_PrefabInstance: {fileID: 1268000916}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &959192633
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 959192629}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -6978302038469461772, guid: 70860e420ce81264a9ebcfa4ccf55640, type: 3}
 --- !u!1001 &1141606071
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1365,6 +1385,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: interior_1
       objectReference: {fileID: 0}
+    - target: {fileID: 5400396639010109554, guid: 70860e420ce81264a9ebcfa4ccf55640,
+        type: 3}
+      propertyPath: m_TagString
+      value: Ball
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 70860e420ce81264a9ebcfa4ccf55640, type: 3}
 --- !u!1 &1347450159
@@ -1670,7 +1695,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5313b7bbefd1f1b499b46bf5cb367f2f,
         type: 3}
       propertyPath: m_TagString
-      value: Ball
+      value: Untagged
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5313b7bbefd1f1b499b46bf5cb367f2f, type: 3}
