@@ -4,5 +4,26 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/TirGames/SchoolScene/Scenes/SchoolSceneDay_Selection_Room.unity
+    guid: 4b30254763d5af64691b4eb9c7db1ab0
+  - enabled: 1
+    path: Assets/TirGames/SchoolScene/Scenes/SchoolSceneNight.unity
+    guid: e76d138d3a2734c47b4c53fb034a2022
+  - enabled: 1
+    path: Assets/TirGames/SchoolScene/Scenes/BilateralGridJumpScene.unity
+    guid: 35ab38df95d3cf049a9e9cf486ee30d4
+  - enabled: 1
+    path: Assets/TirGames/SchoolScene/Scenes/UnilatLeftScene.unity
+    guid: f77141db624a3c240b179d04c6e22dfd
+  - enabled: 1
+    path: Assets/TirGames/SchoolScene/Scenes/UnilatRightScene.unity
+    guid: 0413cce366b401640861eebb821722f9
+  - enabled: 1
+    path: Assets/TirGames/SchoolScene/Scenes/LatBoundWithRotationScene.unity
+    guid: 4c565080cdcdc094dbd0dc1449562804
+  - enabled: 1
+    path: Assets/TirGames/SchoolScene/Scenes/BurpeesScene.unity
+    guid: 10b09d8a23132834a957f289010c021e
   m_configObjects: {}
