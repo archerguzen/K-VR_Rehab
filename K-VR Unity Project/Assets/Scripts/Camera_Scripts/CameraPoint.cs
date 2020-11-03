@@ -1,11 +1,12 @@
 ﻿using System.Collections;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class CameraPoint : MonoBehaviour
 {
 
 
-    public Transform crosshair;
+    public GameObject crosshair;
     public Camera cam;
     public GameObject UI_prefab;
 
@@ -25,10 +26,19 @@ public class CameraPoint : MonoBehaviour
         RaycastHit hit;
         if (Physics.Raycast(cam.transform.position, cam.transform.forward, out hit))
         {
-            crosshair.position = hit.point + hit.normal * 0.01f;
+            crosshair.transform.position = hit.point + hit.normal * 0.01f;
             crosshair.transform.LookAt(hit.point + hit.normal);
 
-            if (Input.GetKeyDown(KeyCode.Mouse0))
+            if (hit.transform.gameObject.tag == "Ball")
+            {
+                crosshair.GetComponent<Image>().color = new Color32(255, 172, 0,255);
+            }
+            else
+            {
+                crosshair.GetComponent<Image>().color = new Color32(255, 255, 255,255);
+            }
+
+                if (Input.GetKeyDown(KeyCode.Mouse0))
             {
                 if (hit.transform.gameObject.tag == "Ball")
                 {
