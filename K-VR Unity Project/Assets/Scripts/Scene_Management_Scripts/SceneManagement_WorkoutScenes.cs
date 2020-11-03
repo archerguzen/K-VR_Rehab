@@ -19,6 +19,12 @@ public class SceneManagement_WorkoutScenes : MonoBehaviour
     void Update () {
         var ray = Camera.main.ScreenPointToRay(Input.mousePosition);
         RaycastHit Hit;
+		
+		if (Physics.Raycast(ray, out Hit) && Hit.collider.gameObject == gameObject)
+        {
+            Debug.Log("Hovering");
+            // OnClick.Invoke();
+        }
          
         if (Input.GetMouseButtonDown(0))
         {
